@@ -1,0 +1,49 @@
+﻿{
+    "title": "xxxx",
+    "is_end" : false,
+    "rewards" : [
+        {
+            "shakes" : 200,
+            "amount" : 1,
+            "baht" : 1,
+            "title" : "Default value",
+            "type" : "top_1"
+        },
+        {
+            "shakes" : 200,
+            "amount" : 1,
+            "baht" : 1,
+            "title" : "Default value",
+            "type" : "top_2"
+        },
+        {
+            "shakes" : 200,
+            "amount" : 1,
+            "baht" : 1,
+            "title" : "Default value",
+            "type" : "top_3"
+        },
+        {
+            "shakes" : 200,
+            "amount" : 1,
+            "baht" : 1,
+            "title" : "Default value",
+            "type" : "honorable"
+        }
+    ],
+    "participant_count" : 5,
+    "limited" : {
+        "amount" : 0,
+        "isActive" : false
+    },
+    "is_feature" : false,
+    "tags" : [],
+    "small_cover_image" : "",
+    "cover_image" : "https://s3.ap-southeast-1.amazonaws.com/static.songshakes/images/2018/7/5/8b8e3407999bca115c5c13245df8e048.jpg",
+    "highlight_image" : "",
+    "expire_date" : "2018-07-12T08:27:39.000Z",
+    "release_date" : "2018-07-05T01:27:39.000Z",
+    "status" : "PUBLISH",
+    "description" : "#กติกาการประกวด\n1. อัดคลิปคัฟเวอร์เพลงวันหนึ่งฉันเดินเขาป่า จะร้อง จะเล่น จะมาเป็นคู่ เป็นหมู่คณะหรือจะมาตัวคนเดียวก็ได้ เล่นตามแต่สไตล์ที่ตัวเองถนัด จัดมาได้เต็มที่เลย\n2. ไม่จำกัดอายุ ไม่จำกัดเพศ ไม่จำกัดส่วนสูงและน้ำหนัก\n3. ความยาวคลิปไม่เกิน 1.30 นาที (เกินมาวินาทีเดียวก็ไม่ได้นะจ๊ะ)\n4. ใช้อัดสดจากกล้องวิดีโอหรือกล้องมือถือเท่านั้น จะกล้องหน้า กล้องหลัง แนวตั้ง แนวนอนก็แล้วแต่สบายใจเลย แต่ที่สำคัญคือห้ามผ่านการตัดต่อจากโปรแกรมใด ๆ ทั้งสิ้น \n5. ห้ามเนียนเอาคลิปแสดงสดที่มีอยู่แล้วมาประกวดนะจ๊ะ (ถ้าจะให้ดีเป็นคลิปที่ทำขึ้นมาใหม่จะดีที่สุด) ",
+    "sub_title" : "Max Jenmana"
+}
